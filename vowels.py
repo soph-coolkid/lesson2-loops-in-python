@@ -8,4 +8,5 @@ count=0
 for q in word:
     if q in "qwrtypsdfghjklzxcvbnm":
         count=count+1
-print("consents=",count)          
+print("consents=",count)
+       
